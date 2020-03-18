@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/peterekjs/eslint-config-indent#readme",
   "peerDependencies": {
-    "eslint": "6.x.x"
+    "eslint": "^6.0.0"
   }
 }
