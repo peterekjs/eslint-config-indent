@@ -1,17 +1,29 @@
 {
   "name": "@peterek/eslint-config-indent",
   "version": "0.0.0",
-  "description": "Indent config for eslint",
+  "description": "Eslint config for indentation",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/peterekjs/eslint-config-indent.git"
   },
   "keywords": [
-    "eslint"
+    "check",
+    "checker",
+    "code",
+    "code checker",
+    "code indent",
+    "code linter",
+    "code standards",
+    "code style",
+    "eslint",
+    "eslintconfig",
+    "indent",
+    "lint",
+    "style",
+    "style checker",
+    "style linter",
+    "style indent"
   ],
   "author": "Jiri Peterek <jiri.peterek@gmail.com>",
   "license": "ISC",
