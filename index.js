@@ -1,4 +1,4 @@
-import indentOptions from './lib/indent'
+const indentOptions = require('./lib/indent')
 
 module.exports = {
     rules: {
